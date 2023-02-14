@@ -15,12 +15,12 @@ Seed Project의 기본적인 Tool은 다음과 같습니다.
 # Setting
 ## 01. <a href="https://code.visualstudio.com/">VSCode Download</a> and Install
 VSCode를 다운로드 하고 설치 합니다.
-<center>
-  <img src="./img/vscode.jpg" width="400px" />
-</center>
+<img src="./img/vscode.jpg" width="400px" />
 
 ## 02. <a href="https://www.google.co.kr/intl/ko/chrome/">Chrome Download</a> and Install
 Chrome 브라우져를 다운로드 하고 설치 합니다.
-<center>
-  <img src="./img/browser.jpg" width="400px" />
-</center>
+<img src="./img/browser.jpg" width="400px" />
+
+기본적인 환경 준비가 완료 되었습니다.
+
+Enjoy Seed Project!
