@@ -1,6 +1,8 @@
 # refernce
 - https://developer.mozilla.org/ko/docs/Web/HTML
+
 HTML에 대한 정리가 잘 되어 있는 공식문서 입니다.
+
 해당 부분을 개략적으로 숙지하시면 HTML로 구성된 Plugin 예제를 보다 쉽게 이해할 수 있습니다.
   
 # sproj-prerequisite-html
