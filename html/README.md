@@ -1,10 +1,16 @@
+# refernce
+- https://developer.mozilla.org/ko/docs/Web/HTML
+HTML에 대한 정리가 잘 되어 있는 공식문서 입니다.
+해당 부분을 개략적으로 숙지하시면 HTML로 구성된 Plugin 예제를 보다 쉽게 이해할 수 있습니다.
+  
 # sproj-prerequisite-html
 MIDAS API Seed Project HTML
 
 MIDAS API의 Plugin 개발을 위한 Seed Proejct 환경 구성 안내 입니다.
 
 <b>Note</b>: 아래 내용은 지속적으로 추가될 수 있습니다.
-
+  
+  
 # Getting Started HTML
 HTML 예제를 실행하기 위해서는 아래의 절차에 따라 Setting 해주시면 됩니다.
 
