@@ -14,11 +14,13 @@ HTML 예제를 실행하기 위해서는 아래의 절차에 따라 Setting 해�
   
     ### [VSCode](https://code.visualstudio.com/) :computer:
     VSCode를 다운로드 하고 설치 합니다.  
+    코드를 작성하고 수정하기 위한 IDE를 설치 합니다.  
     `메모장, notepad 등을 사용하셔도 무방 합니다.`  
     <br />
     
     ### [Chrome](https://www.google.co.kr/intl/ko/chrome/) :earth_africa:
     Chrome 브라우져를 다운로드 하고 설치 합니다.  
+    작성된 코드를 테스트 하기 위해 브라우져를 설치 합니다.  
     `Edge, Firefox 등을 사용하셔도 무방 합니다.`
 <br /><br />
 
