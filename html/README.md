@@ -1,4 +1,4 @@
-# refernce
+# Reference
 - https://developer.mozilla.org/ko/docs/Web/HTML
 
 HTML에 대한 정리가 잘 되어 있는 공식문서 입니다.
