@@ -1,4 +1,4 @@
-# Getting Started with React Library
+# :zap: Getting Started with React
 
 MIDAS API를 활용한 React Plugin 기본 프로젝트 입니다.
 
