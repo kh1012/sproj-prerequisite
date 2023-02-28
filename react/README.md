@@ -12,5 +12,6 @@ react는 기본적으로 html과 동일한 환경으로 시작하시면 됩니�
 
 추가적으로 react를 사용하기 위해서는 javascript를 실행할 수 있는 환경이 필요하기 때문에 NodeJS를 설치 해야 합니다.\
 아래 링크를 참고하여 NodeJS를 설치 합니다.\
-[NodeJS](https://nodejs.org/ko/)\
-[Document](https://nodejs.org/ko/docs/)
+
+- [NodeJS](https://nodejs.org/ko/)
+- [Document](https://nodejs.org/ko/docs/)
