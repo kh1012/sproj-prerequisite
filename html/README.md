@@ -1,9 +1,3 @@
-# :zap: sproj-prerequisite-html
-MIDAS API Seed Project HTML  
-MIDAS API의 Plugin 개발을 위한 Seed Proejct 환경 구성 안내 입니다.  
-`Note: 아래 내용은 지속적으로 추가될 수 있습니다.`
-<br /><br />
-
 # :clipboard: Getting Started With HTML
 HTML 예제를 실행하기 위해서는 아래의 절차에 따라 Setting 해주시면 됩니다.
 <br /><br />
