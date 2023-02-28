@@ -1,4 +1,4 @@
-# :clipboard: Getting Started With HTML
+# :zap: Getting Started With HTML
 HTML 예제를 실행하기 위해서는 아래의 절차에 따라 Setting 해주시면 됩니다.
 <br /><br />
 
