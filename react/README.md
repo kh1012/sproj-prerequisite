@@ -14,4 +14,8 @@ react는 기본적으로 html과 동일한 환경으로 시작하시면 됩니�
 아래 링크를 참고하여 NodeJS를 설치 합니다.\
 
 - [NodeJS](https://nodejs.org/ko/)
-- [Document](https://nodejs.org/ko/docs/)
+- [Document](https://nodejs.org/ko/docs/)  
+
+잘 따라 오셨다면 Window Key + R 을 눌러 cmd 를 입력하고, 커맨드 창을 띄웁니다.\
+"node --version"을 입력하고 정상적으로 설치 되었는지 확인해보세요.\
+만약 정상적으로 설치되지 않았다면 재부팅 or node 환경변수를 설정하시면 됩니다!
