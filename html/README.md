@@ -1,26 +1,26 @@
 # :zap: Getting Started With HTML
-HTML 예제를 실행하기 위해서는 아래의 절차에 따라 Setting 해주시면 됩니다.
+To start the HTML example, you can set your PC environment up in the following steps.
 <br /><br />
 
 ## Tools Download and Installing
-  Seed Project의 기본적인 Tool은 다음과 같습니다.  
-  다른 Tool을 사용하여도 무방하지만 모든 Description은 위 Tool에 기반 합니다.  
+  Introduce the basic Tool of the Seed Project.
+  All descriptions work in the above Tool; however, you can use others. 
   
 - [VSCode](https://code.visualstudio.com/) :computer:
-  VSCode를 다운로드 하고 설치 합니다.  
-  코드를 작성하고 수정하기 위한 IDE를 설치 합니다.  
-  `메모장, notepad 등을 사용하셔도 무방 합니다.`  
+  Download VSCode and install.  
+  Install IDE for scripting and editing the code.  
+  `It is fine to use notepad instead of VSCode.` 
   <br />
     
 - [Chrome](https://www.google.co.kr/intl/ko/chrome/) :earth_africa:
-  Chrome 브라우져를 다운로드 하고 설치 합니다.  
-  작성된 코드를 테스트 하기 위해 브라우져를 설치 합니다.  
-  `Edge, Firefox 등을 사용하셔도 무방 합니다.`
+  Download Chrome browser and install.  
+  Install the browser for testing scripted code.
+  `It is OK to use Edge, Firefox, and etc.`
 <br /><br />
 
-## Client 준비
-MIDAS API와 연결 가능한 Client를 준비 합니다.  
-Gen의 경우, API가 사용가능한 최신 버젼 릴리즈를 준비 합니다.  
+## Prepare Client
+Prepare the Client that can connect to MIDAS API.  
+In the case of Gen/Civil, prepare the latest version that offers API. 
   
 - [How to Packing Midas GEN](https://midasitdev.atlassian.net/wiki/spaces/AD/pages/2874999417/Gen+Release+Packing)
 - [API Manual Rev.02](https://midas-support.atlassian.net/wiki/spaces/MAW/pages/84017153/Civil+API+Manual+Rev.02)
@@ -28,10 +28,10 @@ Gen의 경우, API가 사용가능한 최신 버젼 릴리즈를 준비 합니�
 
 ## :pushpin: Reference
 - [MDN-HTML](https://developer.mozilla.org/ko/docs/Web/HTML)  
-HTML에 대한 정리가 잘 되어 있는 공식문서 입니다.  
-해당 부분을 개략적으로 숙지하시면 HTML로 구성된 Plugin 예제를 보다 쉽게 이해할 수 있습니다.
+It contains Official well-organized HTML documents.
+Once you understand related parts, you can understand the HTML Plugin example much easier.
 <br /><br />
 
-기본적인 환경 준비가 완료 되었습니다.  
+The basic environment is ready.
 <br />
 **Enjoy Seed Project!**
